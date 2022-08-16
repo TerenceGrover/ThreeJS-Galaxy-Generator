@@ -14,7 +14,7 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
-##OR
+## Or
 If available:
 
 Click this link : [Online visualization](https://terencegrover.github.io/ThreeJS-Galaxy-Generator/)
